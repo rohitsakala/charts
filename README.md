@@ -1,6 +1,11 @@
 ## Validation steps
 - [ ] Ensure any new images have repository and tag on the same level to ensure the rancher-images.txt is generated correctly for it for airgap scenarios.
 
+Ex:- 
+  longhorn-controller:
+    repository: rancher/hardened-sriov-cni
+    tag: v2.6.3-build20230913
+                   
 ## Live Branch
 
 This branch contains generated assets that have been officially released on charts.rancher.io.
