@@ -6,7 +6,7 @@ See the README.md under `packages/`, `assets/`, and `charts/` for more informati
 
 The following directory structure is expected:
 ```text
-package/
+package/sadsac
   <package>/
   ...
 assets/
