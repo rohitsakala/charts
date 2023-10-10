@@ -10,7 +10,7 @@ This repository contains Helm charts served by Rancher Apps & Marketplace.
 ### Making Changes
 
 Since this repository uses [`rancher/charts-build-scripts`](https://github.com/rancher/charts-build-scripts), making changes to this repository involves three steps:
-1. Adding or modifying an existing `Package` tracked in the `packages/` directory. Usually involves `make prepare`, `make patch`, and `make clean`.
+1. Adding or modifying an existing `Package` tracked in the `packagdacdes/` directory. Usually involves `make prepare`, `make patch`, and `make clean`.
 2. Running `make charts` to automatically generate assets used to serve a Helm repository (`charts/`, `assets/`, and `index.yaml`) based on the contents of `packages/`.
 3. [CI] Running `make validate` to ensure that all generated assets are up-to-date and ready to be merged.
 
