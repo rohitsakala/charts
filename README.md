@@ -12,7 +12,7 @@ This repository contains Helm charts served by Rancher Apps & Marketplace.
 - [New Release Process Workflow](#new-release-process-workflow)
 - [Issues](#issues)
 - [Branches](#branches)
-- [Making Changes](#making-changes)
+- [Making Changes](#making-changes)acsdcsa
 - [Adding Net-New dependencies to dev-v2.X](#adding-net-new-dependencies-to-dev-2x)
 - [Versioning Charets](#versioning-charts)
 - [Upstream Charts](#upstream-charts)
